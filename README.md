@@ -1,19 +1,15 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBiY2Q5YjM5YjYwYjYwYjYwYjYwYjYwYjYwYjYwYjYwYjYwYjYwJmN0PWc/3o7TksxbgwNd990M5q/giphy.gif" width="100%" height="200" style="object-fit: cover;" alt="Animated Cyber Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052FF&height=220&section=header&text=Hi%20there,%20I'm%20Surya%20Prakash%20👋&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="Animated Wave Header" width="100%" />
   
   <br/>
 
   <a href="https://github.com/Surya512002">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=0052FF&center=true&vCenter=true&width=600&lines=WEB3+DEVELOPER;OPEN-SOURCE+CONTRIBUTOR;BASE+NETWORK+BUILDER" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=0052FF&center=true&vCenter=true&width=600&lines=WEB3+DEVELOPER;OPEN-SOURCE+CONTRIBUTOR;BASE+NETWORK+BUILDER" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <b>Building the future of decentralized analytics and seamless user experiences on the blockchain.</b>
   </p>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Surya512002&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Surya's Trophies" />
-  </a>
 </div>
 
 <br/>
@@ -39,6 +35,21 @@ I am a passionate Web3 developer focused on bridging the gap between complex blo
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated Divider" />
 
+### 📈 Developer Dashboard UI
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surya512002&theme=tokyonight" alt="Surya's Profile Dashboard" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surya512002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=0052FF" alt="Surya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya512002&theme=tokyonight&hide_border=true&background=0D1117&ring=0052FF&currStreakLabel=0052FF" alt="Surya's GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
 ### 🐍 Contribution Activity
 
 <div align="center">
@@ -47,15 +58,6 @@ I am a passionate Web3 developer focused on bridging the gap between complex blo
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Surya512002/Surya512002/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Surya512002/Surya512002/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surya512002&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&icon_color=0052FF" alt="Surya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya512002&theme=dracula&hide_border=true&background=0D1117&ring=0052FF&currStreakLabel=0052FF" alt="Surya's GitHub Streak" width="48%" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated Divider" />
