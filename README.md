@@ -1,55 +1,66 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBiY2Q5YjM5YjYwYjYwYjYwYjYwYjYwYjYwYjYwYjYwYjYwYjYwJmN0PWc/3o7TksxbgwNd990M5q/giphy.gif" width="100%" height="200" style="object-fit: cover;" alt="Animated Cyber Banner"/>
+  
+  <br/>
 
-# Hi there, I'm Surya Prakash 👋
+  <a href="https://github.com/Surya512002">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=0052FF&center=true&vCenter=true&width=600&lines=WEB3+DEVELOPER;OPEN-SOURCE+CONTRIBUTOR;BASE+NETWORK+BUILDER" alt="Typing SVG" />
+  </a>
 
-<a href="https://github.com/Surya512002">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0052FF&center=true&vCenter=true&width=600&lines=Web3+Developer;Open-Source+Contributor;Base+Network+Builder" alt="Typing SVG" />
-</a>
+  <p align="center">
+    <b>Building the future of decentralized analytics and seamless user experiences on the blockchain.</b>
+  </p>
 
-<p align="center">
-  Building the future of decentralized analytics and seamless user experiences on the blockchain. 
-</p>
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Surya512002&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Surya's Trophies" />
+  </a>
 </div>
 
----
+<br/>
 
-### 👨‍💻 About Me
-I am a passionate Web3 developer focused on bridging the gap between complex blockchain data and intuitive, user-friendly interfaces. My core focus right now is expanding the capabilities of the **Base network ecosystem**.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated Divider" />
+
+### 👨‍💻 The Blueprint
+I am a passionate Web3 developer focused on bridging the gap between complex blockchain data and intuitive, user-friendly interfaces. My core mission is expanding the capabilities of the **Base network ecosystem**.
 
 * 🔭 **Currently Building:** [Base Analytics](https://github.com/Surya512002/base-analytics-app) — A comprehensive dashboard and educational hub for the Base network.
 * ⚡ **Focus Areas:** Real-time token market tracking, Farcaster Identity integrations (Neynar APIs), and decentralized ecosystem directories.
 * 🌱 **Always Learning:** Constantly pushing the limits of scalable dApp architectures and smart contract security.
 * 💬 **Ask me about:** React, Next.js, Web3 infrastructure, and transitioning into open-source.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated Divider" />
 
 ### 💻 Arsenal & Tech Stack
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,go,solidity,js,html,css,tailwind,git,github,vscode&perline=6" alt="Animated 3D-style Tech Icons" />
+  </a>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated Divider" />
 
-### 📊 GitHub Activity
+### 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surya512002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Surya's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya512002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya512002&theme=tokyonight&hide_border=true&background=0D1117" alt="Surya's GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surya512002/Surya512002/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Surya512002/Surya512002/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Surya512002/Surya512002/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
----
+<br/>
 
-### 📫 Let's Connect
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surya512002&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&icon_color=0052FF" alt="Surya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya512002&theme=dracula&hide_border=true&background=0D1117&ring=0052FF&currStreakLabel=0052FF" alt="Surya's GitHub Streak" width="48%" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated Divider" />
+
+### 📫 Establish Connection
 
 <div align="center">
   <a href="https://farcaster.xyz/suryaprakash"><img src="https://img.shields.io/badge/Farcaster-8A2BE2?style=for-the-badge&logo=farcaster&logoColor=white" alt="Farcaster" /></a>
